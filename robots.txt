@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3ideas.co.uk/sitemap.xml
